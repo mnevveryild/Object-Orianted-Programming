@@ -1,0 +1,14 @@
+public class HelloJava{
+    public static void main(String[] args){
+        System.out.println("Hello Java");
+        
+        int yasim = 21;
+        String isim ="Munevver";
+        double kilom= 56.4;
+        char ilkHarf= 'm';
+        
+        System.out.println(isim+" "+yasim+" "+kilom+" "+ilkHarf);
+        
+        
+    }
+}
